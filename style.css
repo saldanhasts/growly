@@ -192,7 +192,7 @@ h3 {
 }
 
 h2 {
-  font-size: clamp(2rem, 1.1rem + 4.4vw, 4.25rem);
+  font-size: clamp(2rem, 1.1rem + 4.4vw, 3rem);
 }
 
 h3 {
@@ -746,7 +746,7 @@ html.is-locked {
 }
 
 .hero__title {
-  font-size: clamp(2.5rem, 1.2rem + 6vw, 5.25rem);
+  font-size: clamp(2.5rem, 1.2rem + 6vw, 4.25rem);
   line-height: .98;
   letter-spacing: -.045em;
   font-weight: 800;
@@ -1096,7 +1096,7 @@ html.is-locked {
 
 .statement__text {
   max-width: 21em;
-  font-size: clamp(1.85rem, .9rem + 4.6vw, 4.1rem);
+  font-size: clamp(1.85rem, .9rem + 4.6vw, 3rem);
   line-height: 1.1;
   letter-spacing: -.035em;
   text-wrap: pretty;
@@ -1187,7 +1187,7 @@ html.is-locked {
 }
 
 .mall__title {
-  font-size: clamp(1.6rem, .9rem + 3.3vw, 3.4rem);
+  font-size: clamp(1.6rem, .9rem + 3.3vw, 2.9rem);
   line-height: 1.02;
 }
 
@@ -1749,7 +1749,7 @@ html.is-locked {
   --u: 0;
   margin-top: clamp(4rem, 9vw, 7rem);
   max-width: 22em;
-  font: 700 clamp(1.7rem, .9rem + 3.8vw, 3.6rem)/1.15 var(--font-display);
+  font: 700 clamp(1.7rem, .9rem + 3.8vw, 3rem)/1.15 var(--font-display);
   letter-spacing: -.035em;
 }
 
